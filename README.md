@@ -48,7 +48,12 @@ If applicable, discuss potential future improvements or additional analyses that
 
 ## Contributors
 
-- Pradnyesh Utpat (@PradnyeshUtpat)
+## Contributors
+
+- [Pradnyesh Utpat](https://github.com/PradnyeshUtpat)
+- [Rohit Shidid](https://github.com/rohitshidid) 
+- [Soham Mahajan](https://github.com/sohamm3) 
+
 
 
 
